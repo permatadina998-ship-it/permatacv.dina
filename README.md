@@ -301,7 +301,7 @@ footer {
 
 <footer>
     <p>© 2026 CV Personal | Teknik Komputer dan Jaringan</p>
-    <p>Designed by Nama Kamu</p>
+    <p>Designed by  PERMATADINA</p>
 </footer>
 
 </body>
