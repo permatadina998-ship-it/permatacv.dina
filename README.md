@@ -208,7 +208,7 @@ footer {
 
 <section class="hero" id="home">
     <div>
-        <h1>Halo, Saya <span>NAMA KAMU</span></h1>
+        <h1>Halo, Saya <span>PERMATADINA</span></h1>
         <h3>Teknik Komputer dan Jaringan</h3>
         <p>
             Saya merupakan siswa jurusan TKJ yang memiliki
@@ -233,7 +233,7 @@ footer {
             dalam dunia teknologi khususnya komputer dan jaringan.
         </p>
         <br>
-        <p><b>Nama:</b> Nama Lengkap</p>
+        <p><b>Nama:</b> PERMATA DINA</p>
         <p><b>Tempat, Tanggal Lahir:</b> Kota, Tanggal Lahir</p>
         <p><b>Alamat:</b> Alamat Lengkap</p>
         <p><b>Email:</b> email@gmail.com</p>
