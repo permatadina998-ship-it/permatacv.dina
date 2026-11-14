@@ -1,18 +1,5 @@
 
-        <h1>Halo, Saya <span>PERMATADINA</span></h1>
-        <h3>Teknik Komputer dan Jaringan</h3>
-        <p>
-            Saya merupakan siswa jurusan TKJ yang memiliki
-            minat dalam bidang komputer, jaringan internet,
-            instalasi jaringan, dan teknologi informasi.
-        </p>
-        <button class="btn" onclick="window.print()">
-            Download / Cetak CV
-        </button>
-    </div>
-
-    <img src="foto.jpg" class="profile" alt="Foto Profil">
-</section>
+        
 
 <section id="about">
     <h2>Tentang Saya</h2>
@@ -34,37 +21,20 @@
 
 <section id="pendidikan">
     <h2>Riwayat Pendidikan</h2>
-
-    <div class="card">
-        <h3>SMK - Teknik Komputer dan Jaringan</h3>
-        <p>2024 - Sekarang</p>
-        <p>Mempelajari komputer, jaringan, server, dan teknologi informasi.</p>
-    </div>
-
-    <div class="card">
-        <h3>SMP</h3>
-        <p>2021 - 2024</p>
-        <p>Pendidikan menengah pertama.</p>
-    </div>
-</section>
+    <p>•2019-2022:SD (SEKOLAH DASAR)</p>
+    <p>•2021-2025:SMP (SEKOLAH MENENGAH PERTAMA</p>
+    <p>•2026-2028:SMK ( SEKOLAH MENENGAH KEJURUAN</p>
 
 <section id="skill">
-    <h2>Keahlian TKJ</h2>
-
-    <div class="skills">
-        <div class="skill">💻 Hardware Komputer</div>
-        <div class="skill">🌐 Instalasi LAN</div>
-        <div class="skill">🔌 Crimping Kabel</div>
-        <div class="skill">📡 Konfigurasi Mikrotik</div>
-        <div class="skill">🖧 Cisco Packet Tracer</div>
-        <div class="skill">⚙️ Instalasi Windows</div>
-        <div class="skill">🌍 IP Address</div>
-        <div class="skill">🛠️ Troubleshooting</div>
-    </div>
-</section>
-
-<section>
+    <h2>Keahlian TKJ</h2
+<p>•Merakit komputer </p>
+        <p>•Bisa menggunakan Microsoft word dan Excel </p>
+        <p>•Membuat website sederhana menggunakan HTML dan SSC </p>
+        <p>•Memasang jaringan LAN</p>
     <h2>Pengalaman</h2>
+        <p>•Melaksanakan Praktek kerja lapangan(PKL</p>
+        <p>•Membantu instalasi jaringan komputer</p>
+        <p>•Melakukan perawatan dan perbaikan komputer</p>
     <div class="card">
         <h3>Praktik Kerja Lapangan (PKL)</h3>
         <p>Nama Perusahaan / Tempat PKL</p>
